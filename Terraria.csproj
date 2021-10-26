@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\mikeyisbaeyt\Downloads\depotdownloader-2.4.5\depots\105601\6707058\Terraria.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{121CC93B-1056-4FF3-8747-712B3DC8C7B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>Terraria</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <ApplicationVersion>1.0.4.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Terraria</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.Xact" />
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Projectile.cs" />
+    <Compile Include="Cloud.cs" />
+    <Compile Include="Star.cs" />
+    <Compile Include="CombatText.cs" />
+    <Compile Include="ItemText.cs" />
+    <Compile Include="ServerSock.cs" />
+    <Compile Include="ClientSock.cs" />
+    <Compile Include="Netplay.cs" />
+    <Compile Include="ChatLine.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="WorldGen.cs" />
+    <Compile Include="Sign.cs" />
+    <Compile Include="LiquidBuffer.cs" />
+    <Compile Include="Liquid.cs" />
+    <Compile Include="Lighting.cs" />
+    <Compile Include="Lang.cs" />
+    <Compile Include="keyBoardInput.cs" />
+    <Compile Include="Recipe.cs" />
+    <Compile Include="NPC.cs" />
+    <Compile Include="Gore.cs" />
+    <Compile Include="Tile.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Chest.cs" />
+    <Compile Include="Collision.cs" />
+    <Compile Include="messageBuffer.cs" />
+    <Compile Include="NetMessage.cs" />
+    <Compile Include="Dust.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Steam.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Microsoft\Xna\Framework.RuntimeProfile" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
