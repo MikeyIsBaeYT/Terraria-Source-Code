@@ -1,0 +1,261 @@
+﻿{
+  "Biomes": {
+    "CaveHouseBiome": {
+      // Min: 0.0, Max: 1.0
+      "IceChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "JungleChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "GoldChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "GraniteChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "MarbleChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "MushroomChestChance": 1.0,
+      // Min: 0.0, Max: 1.0
+      "DesertChestChance": 1.0
+    },
+    "DesertBiome": {
+      // Min: 0.0, Max: 1.0
+      "ChanceOfEntrance": .5
+    },
+    "DunesBiome": {
+      // Min: 0.1, Max: 3.0
+      "HeightScale": 1.0,
+      // Min: 10
+      "SingleDunesWidth": {
+        "Min": 150,
+        "Max": 250,
+        "ScaleWith": "None"
+      }
+    },
+    "EnchantedSwordBiome": {
+      // Min: 0.0, Max: 1.0
+      "ChanceOfEntrance": 0.3333333,
+      // Min: 0.0, Max: 1.0
+      "ChanceOfRealSword": 1.0
+    }
+  },
+  "Passes": {
+    "Reset": {},
+    "Terrain": {
+      // Min: 0
+      "FlatBeachPadding": 5
+    },
+    "Dunes": {
+      // Min: 0
+      "Count": {
+        "Min": 1,
+        "Max": 2,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0.0, Max: 1.0
+      "ChanceOfPyramid": 0.4
+    },
+    "Tunnels": {},
+    "Ocean Sand": {},
+    "Mount Caves": {},
+    "Dirt Wall Backgrounds": {},
+    "Rocks In Dirt": {},
+    "Dirt In Rocks": {},
+    "Clay": {},
+    "Small Holes": {},
+    "Dirt Layer Caves": {},
+    "Rock Layer Caves": {},
+    "Surface Caves": {},
+    "Slush Check": {},
+    "Grass": {},
+    "Jungle": {},
+    "Marble": {
+      // Min: 0
+      "Count": {
+        "Min": 4,
+        "Max": 8,
+        "ScaleWith": "WorldArea"
+      }
+    },
+    "Granite": {
+      // Min: 0
+      "Count": {
+        "Min": 4,
+        "Max": 8,
+        "ScaleWith": "WorldWidth"
+      }
+    },
+    "Mud Caves To Grass": {},
+    "Full Desert": {},
+    "Floating Islands": {},
+    "Mushroom Patches": {},
+    "Mud To Dirt": {},
+    "Silt": {},
+    "Shinies": {},
+    "Webs": {},
+    "Underworld": {},
+    "Lakes": {},
+    "Corruption": {},
+    "Dungeon": {
+      "MinimumDistanceToBeach": 50
+    },
+    "Slush": {},
+    "Mountain Caves": {},
+    "Beaches": {},
+    "Gems": {},
+    "Gravitating Sand": {},
+    "Clean Up Dirt": {},
+    "Pyramids": {},
+    "Dirt Rock Wall Runner": {},
+    "Living Trees": {},
+    "Wood Tree Walls": {},
+    "Altars": {},
+    "Wet Jungle": {},
+    "Remove Water From Sand": {},
+    "Jungle Temple": {},
+    "Hives": {},
+    "Jungle Chests": {},
+    "Smooth World": {},
+    "Settle Liquids": {},
+    "Waterfalls": {},
+    "Ice": {},
+    "Wall Variety": {},
+    "Traps": {},
+    "Life Crystals": {},
+    "Statues": {},
+    "Buried Chests": {
+      // Min: 0
+      "CaveHouseCount": {
+        "Min": 35,
+        "Max": 40,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 0
+      "CaveChestCount": {
+        "Min": 35,
+        "Max": 40,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 0
+      "UnderworldChestCount": {
+        "Min": 7,
+        "Max": 10,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0
+      "AdditionalDesertHouseCount": {
+        "Min": 2,
+        "Max": 2,
+        "ScaleWith": "WorldArea"
+      }
+    },
+    "Surface Chests": {},
+    "Jungle Chests Placement": {},
+    "Water Chests": {},
+    "Spider Caves": {},
+    "Gem Caves": {},
+    "Moss": {},
+    "Temple": {},
+    "Ice Walls": {},
+    "Jungle Trees": {},
+    "Floating Island Houses": {},
+    "Quick Cleanup": {},
+    "Pots": {},
+    "Hellforge": {},
+    "Spreading Grass": {},
+    "Piles": {},
+    "Cactus": {},
+    "Spawn Point": {},
+    "Grass Wall": {},
+    "Guide": {},
+    "Sunflowers": {},
+    "Planting Trees": {},
+    "Herbs": {},
+    "Dye Plants": {},
+    "Webs And Honey": {},
+    "Weeds": {},
+    "Mud Caves To Grass 2": {},
+    "Jungle Plants": {},
+    "Vines": {},
+    "Flowers": {},
+    "Mushrooms": {},
+    "Stalac": {},
+    "Gems In Ice Biome": {},
+    "Random Gems": {},
+    "Moss Grass": {},
+    "Muds Walls In Jungle": {},
+    "Larva": {},
+    "Temple Cleanup": {},
+    "Settle Liquids Again": {},
+    "Tile Cleanup": {},
+    "Lihzahrd Altars": {},
+    "Micro Biomes": {
+      "DeadManChests": {
+        "Min": 10,
+        "Max": 20,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0
+      "SwordShrineAttempts": {
+        "Min": 1,
+        "Max": 2,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0, Max: 1
+      "SwordShrinePlacementChance": 0.25,
+      // Min: 0
+      "ThinIcePatchCount": {
+        "Min": 3,
+        "Max": 5,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0
+      "CampsiteCount": {
+        "Min": 6,
+        "Max": 11,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 0
+      "ExplosiveTrapCount": {
+        "Min": 14,
+        "Max": 29,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 0
+      "LivingTreeCount": {
+        "Min": 6,
+        "Max": 11,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0
+      "CorruptionPitCount": {
+        "Min": 1,
+        "Max": 2,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 0
+      "StandardTrackCount": {
+        "Min": 4,
+        "Max": 7,
+        "ScaleWith": "WorldArea"
+      },
+      // Min: 1
+      "StandardTrackLength": {
+        "Min": 150,
+        "Max": 300,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 0
+      "LongTrackCount": {
+        "Min": 1,
+        "Max": 2,
+        "ScaleWith": "WorldWidth"
+      },
+      // Min: 1
+      "LongTrackLength": {
+        "Min": 400,
+        "Max": 1000,
+        "ScaleWith": "WorldWidth"
+      }
+    },
+    "Final Cleanup": {}
+  }
+}

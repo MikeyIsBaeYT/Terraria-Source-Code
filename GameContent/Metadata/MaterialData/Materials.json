@@ -1,0 +1,128 @@
+﻿{
+	"Default": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.95,
+			"SideImpactDampening": 0.98,
+			"ClubImpactDampening": 1,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	},
+	"Dirt": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.9,
+			"SideImpactDampening": 0.95,
+			"ClubImpactDampening": 0.9,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"Grass": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.9,
+			"SideImpactDampening": 0.95,
+			"ClubImpactDampening": 1,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"Snow": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.5,
+			"SideImpactDampening": 0.2,
+			"ClubImpactDampening": 0.6,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 1
+		}
+	},
+	"Wood": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.94,
+			"SideImpactDampening": 0.99,
+			"ClubImpactDampening": 0.99,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	},
+	"Ice": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.95,
+			"SideImpactDampening": 1.0,
+			"ClubImpactDampening": 0.99,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	},
+	"Sand": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.3,
+			"SideImpactDampening": 0.2,
+			"ClubImpactDampening": 0.4,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 1
+		}
+	},
+	"PinkSlime": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 1,
+			"SideImpactDampening": 1,
+			"ClubImpactDampening": 1,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	},
+	"Organic": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.7,
+			"SideImpactDampening": 0.4,
+			"ClubImpactDampening": 0.8,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"Sticky": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.1,
+			"SideImpactDampening": 0.1,
+			"ClubImpactDampening": 0.2,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"Plant": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.98,
+			"SideImpactDampening": 0.98,
+			"ClubImpactDampening": 0.98,
+			"PassThroughDampening": 0.99,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"Web": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.98,
+			"SideImpactDampening": 0.98,
+			"ClubImpactDampening": 0.98,
+			"PassThroughDampening": 0.95,
+			"ImpactDampeningResistanceEfficiency": 0.5
+		}
+	},
+	"GolfGrass": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.9,
+			"SideImpactDampening": 0.98,
+			"ClubImpactDampening": 1.5,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	},
+	"GolfTee": {
+		"GolfPhysics": {
+			"DirectImpactDampening": 0.9,
+			"SideImpactDampening": 0.98,
+			"ClubImpactDampening": 1.8,
+			"PassThroughDampening": 1,
+			"ImpactDampeningResistanceEfficiency": 0
+		}
+	}
+}
