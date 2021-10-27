@@ -1,0 +1,237 @@
+{
+	"DryadSpecialText": {
+		"WorldStatusAll": "{0} tiene un {1}% de sagrado, un {2}% de corrompido y un {3}% carmesí.",
+		"WorldStatusHallowCorrupt": "{0} tiene un {1}% de sagrado y un {2}% de corrompido.",
+		"WorldDescriptionGrim": "Es bastante desalentador...",
+		"WorldDescriptionWork": "Tienes mucho trabajo que hacer.",
+		"WorldDescriptionClose": "¡Estás muy cerca!",
+		"WorldStatusHallowCrimson": "{0} tiene un {1}% de sagrado y un {2}% carmesí.",
+		"WorldStatusCorruptCrimson": "{0} tiene un {1}% de corrompido y un {2}% carmesí.",
+		"WorldStatusCorrupt": "{0} tiene un {1}% de corrompido.",
+		"WorldStatusCrimson": "{0} tiene un {1}% carmesí.",
+		"WorldStatusHallow": "{0} tiene un {1}% de sagrado.",
+		"WorldStatusPure": "{0} tiene una pureza total. ¡Has hecho un trabajo increíble!",
+		"WorldDescriptionBalanced": "El mundo está en equilibrio.",
+		"WorldDescriptionFairyTale": "Estamos viviendo en un cuento de hadas.",
+		"Party": "Pensé que sería buena idea hacer una fiesta para celebrar nuestras victorias pasadas y futuras.",
+		"AfterDD2Tier1": "Cuando estaba en Eteria, me sentía muy lejos de {WorldName}. Da gusto estar de vuelta.",
+		"AfterDD2Tier2": "La Corrupción intentó dominarme cuando fui a Eteria, pero yo usé su poder contra el ejército del Antiguo."
+	},
+	"DyeTraderSpecialText": {
+		"HasPlant_0": "¡Brillante, sí, señor! Me has traído una muestra exquisita de los preciosos colores y el aroma del mundo. A cambio, puedes quedarte con esta botella de tinte especial.",
+		"HasPlant_1": "¿Me traes una flor rara y hermosa? ¿Sí? ¿Sí? ¡Toma esta botella de tinte especial que te será útil!",
+		"HasPlant_2": "¡Fantabuloso, camarada! Con este espécimen delicado, ¡podré mezclar los tintes más increíbles que {WorldName} ha visto! ¡Puedes llevarte este ya mismo!",
+		"NoPlant_0": "Oh, no, no. Esto no funcionará. Este dinero no está bien, ¡así que tienes que traerme una flor rara!",
+		"NoPlant_1": "¿Crees que puedes engañar a {DyeTrader}? ¡Lo dudo mucho! ¡Solo acepto las flores más raras para estas botellas especiales!",
+		"NoPlant_2": "¿Estas botellas de tinte? Lo siento, camarada. Estas no aceptan dinero. ¡Solo acepto una flor rara y valiosa a cambio de una de estas!",
+		"Party": "Adoro las fiestas por sus bonitos colores y la gente feliz."
+	},
+	"GuideSpecialText": {
+		"Party": "¿Nunca habías estado en una fiesta? Tal vez quieras hablarlo con los demás. A veces, la gente saca a relucir favores especiales. "
+	},
+	"MerchantSpecialText": {
+		"Party": "¿Sabes cuál sería la mejor forma de hacer una fiesta? Comprando cosas para otros, sobre todo para mí."
+	},
+	"GoblinTinkererSpecialText": {
+		"Party": "Las fiestas de los duendes se parecen mucho a las de los humanos. Ambas tienen juegos como \"Cárgale el muerto al humano\"... En mis fiestas, no jugamos a ese juego."
+	},
+	"WitchDoctorSpecialText": {
+		"Party": "Quería ver cómo lo celebráis vosotros. No me decepciona.",
+		"AfterDD2Tier1": "Siento un espíritu gemelo en los magos negros etéreos. Es una pena que sean nuestros enemigos. Me hubiese gustado aprender de ellos."
+	},
+	"ClothierSpecialText": {
+		"Party": "Mamá siempre decía que tenías que dejar el pasado atrás antes de seguir festejando."
+	},
+	"TravellingMerchantSpecialText": {
+		"Party": "Muchos dicen que las fiestas te proporcionan los mejores recuerdos. ¡Así que compra algo y crea buenos recuerdos!"
+	},
+	"MechanicSpecialText": {
+		"Party": "¿Crees que a alguien le importaría que pusiese bombillas en la tarta en lugar de velas?"
+	},
+	"BartenderSpecialText": {
+		"Party": "¡Necesito algún mensaje de cumpleaños, Yorai!",
+		"AfterDD2Tier1": "¡Has hecho un gran trabajo deshaciéndote del ejército del Antiguo! Pero seguro que los volveremos a ver. Esta vez no se han defendido demasiado.",
+		"AfterDD2Tier2": "El ejército del Antiguo es cada vez más fuerte... ¡pero tú sigues deshaciéndote de ellos! Pero algo me dice que todavía nos volverán a incordiar.",
+		"AfterDD2Tier3": "¿En serio has conseguido mantener a raya al ejército del Antiguo? Tal vez deberías visitar Eteria alguna vez.",
+		"BeforeDD2Tier1": "Tendríamos que hacer algo con el ejército del Antiguo. Pregúntame por el cristal eternia si quieres saber más sobre él.",
+		"FirstHelp": "Para empezar, toma unas cuantas Medallas del Defensor. ¡Invita la casa! Tengo varias defensas especiales que puedes comprar, ¡pero solo con Medallas del Defensor!",
+		"FirstMeeting": "¿Uh? ¿Cómo he llegado hasta aquí? Lo último que recuerdo es ver un portal abriéndose delante de mí..."
+	},
+	"PartyGirlSpecialText": {
+		"Party_1": "¿Mmm? Nada especial hoy... ¡Estoy de broma! Ha llegado la hora de la fiesta. Y, después, ¡será la posfiesta!",
+		"Party_2": "¡Por fin, ha llegado mi momento!",
+		"AfterDD2Tier1": "¿Has visto ya a algún ogro? ¡Quiero montarme a lomos de uno!"
+	},
+	"PirateSpecialText": {
+		"Party": "Después de toda esa tarta, tal vez tengas que llamarme Barba Blanca durante un buen rato."
+	},
+	"TruffleSpecialText": {
+		"Party": "Habría invitado a todo el mundo a mi fiesta, pero no hay mucho espacio."
+	},
+	"NurseSpecialText": {
+		"Party": "No, no te diré cuántas velas hay en mi tarta."
+	},
+	"WizardSpecialText": {
+		"Party": "Está claro que celebré la fiesta más mágica de todas.",
+		"AfterDD2Tier1": "Jo, creía haber visto un portal como ese en el pasado... pero era oro."
+	},
+	"SteampunkerSpecialText": {
+		"Party": "Todos decían que les gustaban las tartas apiladas, así que metí chimeneas en la mía."
+	},
+	"CyborgSpecialText": {
+		"Party": "¡Esta fiesta será un desmadre! ¡Y hasta un despadre!"
+	},
+	"SantaClausSpecialText": {
+		"Party": "Venga, no creerías que solo celebraba las Navidades, ¿no?"
+	},
+	"DemolitionistSpecialText": {
+		"Party": "Puede que hoy quieras andar con cuidado. Los enanos solemos celebrar unas fiestas bastante explosivas.",
+		"AfterDD2Start": "No entiendo por qué no podemos cargarnos esos portales."
+	},
+	"ArmsDealerSpecialText": {
+		"Party": "Las fiestas son geniales para hacer que la gente salga de sus cascarones, cual polluelos."
+	},
+	"StylistSpecialText": {
+		"Party": "Puede que haya ido a la peluquería hoy, pero, a decir verdad, solo quiero reventar globos con las tijeras."
+	},
+	"PainterSpecialText": {
+		"Party": "Intenté hacer una partida de paintball, pero todos preferían la comida y los adornos."
+	},
+	"AnglerSpecialText": {
+		"Party": "¿Cómo? ¿Crees que me gustan las fiestas porque soy infantil? Pues efectivamente, ¡así que a festejar!"
+	},
+	"AnglerQuestText": {
+		"NoQuest_1": "No tengo nada para ti en estos momentos.",
+		"NoQuest_2": "Ya me has entretenido bastante por hoy. Márchate.",
+		"NoQuest_3": "¡Se acabó! El gran {Angler} te permite irte.",
+		"NoQuest_4": "Solo un pez al día. ¡Márchate!",
+		"NoQuest_5": "Todavía no he usado el último pez que me has traído.  No necesito más.",
+		"TurnIn_1": "¡Oh! ¡Gracias por traerme el pez que te pedí! Y ahora, ¡lárgate!",
+		"TurnIn_2": "¡Una gran pieza! ¡Todo va según el plan! ¡Je, je, je!",
+		"TurnIn_3": "¡Eres un gran mono de los recados! Pero ahora, ¡lárgate!",
+		"TurnIn_4": "¡Ja, ja, ja, ja, ja, ja! ¡Lo has logrado! Pero sigues de una pieza. ¡Qué aburrido!",
+		"TurnIn_5": "¡Vaya! ¡Pero si has hecho lo que te pedí y has sobrevivido! ¡Genial! ¡Dámelo y lárgate!",
+		"Quest_Batfish": "Nana nana nana nana ¡BATPEZ! Es decir, excava hasta donde tengas que cavar, consíguelo y tráemelo.\n\n(Se encuentra en el subterráneo y cavernas)",
+		"Quest_BumblebeeTuna": "¡En las junglas subterráneas de {WorldName} te encuentras cosas muy extrañas! ¡Por ejemplo, una vez vi un pez que parecía un abejorro gigante! Tengo alergia a las abejas, ¡así que tendrás que pescármelo tú! ¡Seguro que sabe a sándwich de atún y miel!\n\n(Se encuentra en la Miel)",
+		"Quest_Catfish": "¡Por fin he encontrado un gato de la jungla al que le gusta el agua! Creo que también es medio pez. No sé por qué ha pasado esto, pero no quiero saberlo. Lo quiero en mi poder. ¡Y que sea rapidito!\n\n(Se encuentra en la superficie de la selva)",
+		"Quest_Cloudfish": "Se rumorea que hay islas que flotan en el cielo y que esconden tesoros increíbles. ¿A quién le importa eso? Lo que mola es que a veces se forman lagos en las nubes… ¡que están repletos de peces hechos de nube! ¡Quiero saber cómo saben! ¡Ve a pescar uno!\n\n(Se encuentra en Lagos Celestiales)",
+		"Quest_Cursedfish": "Hay un pez maldito que nada por las aguas de la corrupción. Está compuesto por las llamas infernales que se expanden a partir de los horrores caídos que acechan aquí abajo. Dicen que ni siquiera el agua puede apagar su fuego, el cual puede arder eternamente. ¡Se me ocurren un par de usos para un pez así! ¿Vas a ir a conseguirme uno o eres un gallina?\n\n(Se encuentra en la Corrupción)",
+		"Quest_Dirtfish": "Había pescado a uno muy gordo, pero un zombi parlanchín salió del bosque y empezó a divagar sobre una \"feroz\" especie de pescado hecho de basura. Dice que podría ahogar a diez tipos de su tamaño o algo así… ¡Lo quiero! ¡Ya!\n\n(Se encuentra en la superficie, el subterráneo y las cavernas)",
+		"Quest_DynamiteFish": "El demoledor se estaba quejando de que había perdido una barra de dinamita en el lago del bosque. Tiene un montón, ¿por qué le da tanta importancia a una? Por lo visto, le salieron aletas y empezó a nadar. No sé de dónde saca sus materiales para que hagan algo así, ¡pero ese está obviamente poseído! Péscalo y tráemelo. Siempre quise un pez bomba suicida. No me preguntes por qué…\n\n(Se encuentra en la superficie)",
+		"Quest_EaterofPlankton": "Seguro que no serás tan valiente como para encontrar al comedor de plancton. ¡Un pez corrupto se ha transformado en una especie de Comedor de Mundos! ¡Atrápalo, tráemelo y demuéstrame tu valía!\n\n(Se encuentra en la Corrupción)",
+		"Quest_FallenStarfish": "Me encanta coleccionar esas estrellas brillantes y amarillas que caen del cielo. Me encanta todavía más que caigan sobre la cabeza de alguien. Pero… pero… ¡no hay nada mejor que una estrella que cae del cielo en un lago de un bosque y se convierte en pez! Es una locura, ¡pero tú estás lo bastante loco para conseguírmelo!\n\n(Se encuentra en Lagos Celestiales)",
+		"Quest_TheFishofCthulu": "Por lo visto, los ojos demoníacos pueden ser anfibios en ocasiones. ¡No vuelan, nadan! ¡Quiero ver la cara que pone alguien cuando se lo encuentre en la bañera! Vagan por las mismas zonas. ¡Es decir, que puedes pescarme uno!\n\n(Se encuentra en Lagos Celestiales y en la superficie)",
+		"Quest_Fishotron": "No sé qué es peor: un pez hueso o un pez hueso con manos. ¡Ese peztrón de las cavernas me da mucho miedo! Creo que ha sido poseído por los mismos espíritus malvados que han poseído a ese viejo que está junto a la mazmorra. ¡Te reto a que vayas a por él!\n\n(Se encuentra en las cavernas)",
+		"Quest_Harpyfish": "Estaba intentando dormir junto al lago de la colina cuando un pez me pasó rozando. ¡Estaba volando! ¡Además, tenía plumas y la cara de una señorita! ¡Creo que grité más fuerte que ella! ¡Oye, tú! ¡Haz que pague por asustarme así!\n\n(Se encuentra en Lagos Celestiales y en la superficie)",
+		"Quest_Hungerfish": "Hay un pez hambriento que ha mutado del muro carnoso en un pequeño pez que nada por el inframundo. ¡Es asqueroso, es repulsivo y yo lo quiero ahora mismo!\n\n(Se encuentra en las cavernas)",
+		"Quest_Ichorfish": "¿Sabías que algunas de esas criaturas crean esta cosa amarillenta? Oí una historia sobre un montón de esa cosa, que se fusionó en forma de pez ¡y que nada por ahí y todo! ¡Consíguemelo para que pueda ponérselo a alguien en el baño!\n\n(Se encuentra en Carmesí)",
+		"Quest_Jewelfish": "¡Oooh, voy a hacerme de oro! ¡En las profundidades de las cavernas hay un pez hecho de gemas! No me preguntes cómo es posible, porque no lo sé. Tan solo sé que ese pez mola mucho ¡y que lo vas a pescar para mí!\n\n(Se encuentra en el subterráneo y cavernas)",
+		"Quest_MirageFish": "Hay criaturas interesantes por encontrar en las reliquias más profundas, ¡en serio! ¡Brillan con un color morado que engaña a tus ojos! ¡Es una locura! ¡Quiero que me consigas un pez así!\n\n(Se encuentra en el subterráneo de la tundra)",
+		"Quest_MutantFlinxfin": "¿Qué es blanco, moreno y blandito, y vive en un lago subterráneo congelado? ¡Un aletacopito mutante! No era broma, ¿sabes? ¡Hay una variedad mutante del copito que está más adaptada a la vida acuática! Quiero que viva en mi pecera, ¡así que consigue hacer realidad mi sueño!\n\n(Se encuentra en el subterráneo de la tundra)",
+		"Quest_Pengfish": "¡Es una ballena! ¡Es un delfín! ¡No, es un pingüino! ¡Anda mira! Pero si eres tú. ¿Podrías traerme uno? Sabes que solo les gusta el agua fría, ¿verdad?\n\n(Se encuentra en la tundra)",
+		"Quest_Pixiefish": "Hay un tipo muy, muy raro de hada que ha nacido con tantas alas… ¡que no puede volar! Nada con los peces en los lagos, con esa hierba de color azul a su alrededor. Agradecería una lucecita en mi pecera, ¡así que consígueme esa hada!\n\n(Se encuentra en lo sagrado)",
+		"Quest_Spiderfish": "¡He visto a un pez con ocho patas! ¡No! ¡Imposible! Me lo vas a pescar, ¡para que no esté vivo cuando lo coja! ¡Es la última vez que voy a pescar en las profundidades de la caverna!\n\n(Se encuentra en el subterráneo y cavernas)",
+		"Quest_UnicornFish": "¡Los unicornios y los arcoíris molan mucho! Están por todas partes, ¡incluso debajo del agua! No, en serio, ¡he visto a un pez unicornio en el lago sagrado! ¡Tendrás que pescármelo y dejármelo como mascota!\n\n(Se encuentra en lo sagrado)",
+		"Quest_GuideVoodooFish": "Esos demonios del inframundo adoran los muñecos de vudú, ¡pero creo que hay un muñeco que ha recibido demasiada magia! Se convirtió en un pez con vida propia. ¡Te desafío a que me consigas uno! Yo de ti tendría cuidado con la lava ardiente, ¡ya que te puede matar y me quedaría sin mi pez!\n\n(Se encuentra en las cavernas)",
+		"Quest_Wyverntail": "¡Sé algo que tú no! Vale, te lo diré: ¡hay una criatura terrible que vuela entre las estrellas! ¡No es mentira! ¡Se llama guiverno! Pero eso ya lo sabías, ¿verdad? ¡Pero lo que no sabes es que nacen y crecen como renacuajos! Así que en realidad son como… ¡como una rana! ¡Ponte a ello y consígueme uno!\n\n(Se encuentra en Lagos Celestiales)",
+		"Quest_ZombieFish": "¡No te lo vas a creer! ¡He pescado un pez ya muerto en el bosque, durante la noche! ¡Intentó comerme! Lo tiré y salí corriendo de allí. Ahora quiero meterlo en el vestidor de alguien para ver qué pasa. ¿Podrías volver a pescarlo para mí?\n\n(Se encuentra en la superficie)",
+		"Quest_AmanitiaFungifin": "Encontré un lugar espectacular que estaba rodeado por setas gigantes y brillantes. ¡Todo era azul! Estaba cogiendo algunas de las setas que encontré junto a un lago azul brillante cuando una de las setas… ¡me atacó y se fue nadando! Quiero darle a probar su propia medicina ¡y darle un buen mordisco! Es decir, ¡tienes que conseguírmela!\n\n(Se encuentra en los campos de champiñones brillantes)",
+		"Quest_Angelfish": "¿Sabías que hay islas mágicas flotando en lo alto del cielo? ¡Seguro que no! Dicen que en el cielo viven los ángeles. ¡Yo creo que esos ángeles tienen aletas y agallas y se pasan todo el día nadando por ahí! ¡Tendrías que atraparme uno!\n\n(Se encuentra en Lagos Celestiales)",
+		"Quest_BloodyManowar": "¡Ay! ¡No te me acerques! ¡Me ha picado una manowar sangrienta! Por si no sabes lo que es, ¡es la medusa más amenazadora de todo {WorldName}! ¡Ve a atraparme una si te atreves! \n\n(Se encuentra en Carmesí)",
+		"Quest_Bonefish": "Por lo general, me da igual ver espinas en el agua… ¡pero esta estaba nadando! ¿Acaso creías que solo los esqueletos humanos cobraban vida en  {WorldName}? ¡Atrápamela para que se la pueda meter en la cama a alguien!\n\n(Se encuentra en el subterráneo y cavernas)",
+		"Quest_Bunnyfish": "Estaba pescando en el bosque, ¿vale? ¡Pues no sabes lo que pasó! ¡Me saltó encima un conejo! Y luego otro, y otro… ¡y de repente, me veo rodeado de conejos! Uno incluso vino nadando desde el agua, ¡pero no tenía patas! Me caí de la silla del susto ¡y todos los conejos se escabulleron! ¡Quiero ese pez conejo como mascota! ¡Más te vale conseguirme uno pronto!\n\n(Se encuentra en la superficie)",
+		"Quest_CapnTunabeard": "¡Eh, colega! ¡Arriad la mesana! ¡Traed el ron! Había un capitán pirata que tenía un pez como mascota, que se llamaba Barbatún. Durante una gran tormenta, ¡la pecera se le cayó al mar! Tiene un garfio por cola y un parche, ¡el lote completo! Tendrás que conseguirme ese pez, para que pueda ser tan guay como un pirata. ¡Seguro que está en algún rincón del océano!\n\n(Se encuentra en el océano)",
+		"Quest_Clownfish": "Vi un gran pez naranja y colorido junto al océano. Se movía de un lado a otro sin parar, ¡como si estuviese buscando a un familiar desaparecido! ¡Ve a conseguírmelo, para que ese familiar acabe teniendo que buscarlo a él!\n\n(Se encuentra en el océano)",
+		"Quest_DemonicHellfish": "Dicen que, en el inframundo, el rey de todos los demonios ¡es un pez! ¡Imagínate el poder absoluto que conseguiría si me lo pescases!\n\n(Se encuentra en las cavernas)",
+		"Quest_Derpfish": "Esos tontunos de la jungla con las criaturas más terroríficas que jamás haya visto. ¡Lo bueno es que, a veces, no tienen patas! Viven en el agua ¡y dan mucho menos miedo! ¡Péscame uno para que pueda descubrir su sabor sin que me dé un infarto!\n\n(Se encuentra en la superficie de la selva)",
+		"Quest_Fishron": "Existe la leyenda de un ser poderoso conocido como pezgrón, ¡mitad cerdo, mitad dragón y mitad pez! Dicen que se encuentra en los lagos subterráneos de la zona más fría del mundo. Yo no pienso ir hasta allí, ¡así que péscamelo y asegúrate de que cae en mis manos! ¡Ay, qué ilusión!\n\n(Se encuentra en el subterráneo de la tundra)",
+		"Quest_InfectedScabbardfish": "Un pez muy largo, que parece una espada, nada por las aguas turbias de la corrupción. Se parece mucho a una piedra de ébano, ¡no dejes que te engañe! Eso es, tú. ¡Lo vas a pescar tú, no yo!\n\n(Se encuentra en la Corrupción)",
+		"Quest_Mudfish": "¡Ten cuidado al adentrarte en las aguas de la jungla! ¿Por qué? No, no es porque me preocupe que te coman las pirañas. Me preocupa que pises sin querer uno de mis tipos de pez favoritos: ¡el pez barro! También me preocupa mucho que me consigas uno como mascota.\n\n(Se encuentra en la selva)",
+		"Quest_Slimefish": "En el bosque, los slimes dan mucho asco. ¡Y los pez slime, dan más asco todavía! No quiero nadar con slimes, ¡así que sácame uno fuera del agua!\n\n(Se encuentra en cualquier parte)",
+		"Quest_TropicalBarracuda": "¡Las pirañas y los tiburones son horribles! ¡Muy, muy feos! ¿Sabías que hay un pez que parece muy bonito y que podría comerte la cara? Pagaría 2 platinos por verlo, la verdad… Bueno, vayamos al grano: quiero que me lo consigas. ¡Tráemelo antes de que te coma la cara!\n\n(Se encuentra en la superficie de la selva)",
+		"Quest_TundraTrout": "¿Alguna vez te has preguntado por qué en {WorldName} nunca se congelan los lagos de las zonas nevadas? Yo no. ¡Pero los peces sí se congelan! ¡Un pez hecho de hielo sería una gran ofenda al gran y poderoso {Angler}! ¡Ve, mi fiel súbdito! ¡Tráeme esa trucha de la tundra cuanto antes!\n\n(Se encuentra en la superficie de la tundra)"
+	},
+	"AnglerChatter": {
+		"Chatter_1": "¿Por qué {Bartender} no me quiere vender cerveza? ¡Quiero probarla! ¡Menudo gruñón!"
+	},
+	"BartenderChatter": {
+		"Chatter_1": "¡Tengo la birra que te pirra! ¿Lo pillas? ¿Birra? ¿No?",
+		"Chatter_10": "Oye, ¿tú crees que {Steampunker} tiene otra arma como esa? Conozco a una bruja que podría querer una.",
+		"Chatter_11": "Normal que {Demolitionist} tenga tantos accidentes. No te puedes ni imaginar cuantísima cerveza me compra.",
+		"Chatter_12": "Por lo general, no me entusiasman los duendes... Pero ese {GoblinTinkerer} me parece muy majo.",
+		"Chatter_13": "{?Day}¿Alguien sabe adónde se ha ido la dríada?",
+		"Chatter_14": "{?!Day}Está la cosa muy tranquila. Demasiado tranquila...",
+		"Chatter_15": "{?!Day}Contacta conmigo y haz tu trabajo.",
+		"Chatter_16": "{?BloodMoon}Lo cierto es que, en mi pueblo, una Luna de Sangre no es más que una excusa para respirar un poco de aire fresco.",
+		"Chatter_17": "{?MoonLordDefeated}¿Señor de la Luna? ¿No será Señor del Abismo?",
+		"Chatter_18": "{?HardMode}Conozco a un lavamante al que le encantaría esa piedra infernal del inframundo.",
+		"Chatter_19": "{?Homeless}¿Conoces algún buen sitio para montar una tienda? Me encantaría abrir un bar aquí.",
+		"Chatter_2": "Dicen que eres fuerte. De fortalezas sé bastante. A ver si estás a la altura.",
+		"Chatter_3": "En mi pueblo, tan solo servimos cerveza de raíz...",
+		"Chatter_4": "Es un gran paso adelante con respecto a estar todo el día limpiando esa mesa.",
+		"Chatter_5": "La vida es un desafío cuando la naturaleza te ha hecho mejor que a los demás.",
+		"Chatter_6": "Qué estoy haciendo aquí...",
+		"Chatter_7": "Se pueden conseguir grandes cosas con un montón de tenacidad y un poco de suerte...",
+		"Chatter_8": "¿Has visto algún llamexplo por aquí?",
+		"Chatter_9": "{Dryad} parece maja. Debería llevármela conmigo."
+	},
+	"BartenderHelpText": {
+		"Help_1": "Lo primero que tienes que saber es que tengo artefactos defensivos especiales a la venta, ¡pero solo si tienes Medallas del Defensor!",
+		"Help_10": "Si logras repeler la invasión, obtendrás más Medallas del Defensor. ¡Si me las traes, podrás comprar más artefactos y tendrás otras recompensas especiales!",
+		"Help_11": "He oído rumores de que se puede desbloquear todavía más la potencia de los artefactos si derrotar al ejército del Antiguo. ¡Puede que incluso los puedas usar cuando quieras!",
+		"Help_2": "Podrás usar estos artefactos para crear trampas y torres defensivas. Al hacerlo, consumirás maná etéreo, una energía especial que sueltan los miembros del ejército de los Antiguos.",
+		"Help_3": "Desafiar al ejército de los Antiguos es bastante sencillo. Se ven atraídos por el poder de los cristales eternia. Puedes usarlos para hacerlos salir.",
+		"Help_4": "Para colocar un cristal eternia, debes obtener un cristal eternia y un stand para colocarlo. ¡Pues resulta que yo te lo vendo todo!",
+		"Help_5": "Te recomiendo colocar el cristal de eternia en un stand que esté en una zona muy abierta. ¡Muchas paredes y cosas podría complicarte su defensa!",
+		"Help_6": "Cuando tengas montado el stand, interactúa con él mientras tengas un cristal eternia en las manos. ¡Prepárate para luchar!",
+		"Help_7": "¡Obviamente, no puedes permitir que el ejército del antiguo destruya el cristal eternia! ¡Esto tendrá consecuencias catastróficas para mi hogar natal de Eteria!",
+		"Help_8": "Puedes colocar defensas por solo 10 de maná etéreo. Una vez colocado, el cristal eternia liberará parte de su maná. Si no, tendrás que derrotar a enemigos para conseguir más.",
+		"Help_9": "Aprovecha las defensas para repeler a numerosas oleadas de invasores que intentan destruiros tanto a ti como al cristal eternia."
+	},
+	"BartenderNames": {
+		"Name_1": "Ted",
+		"Name_10": "Javahawk",
+		"Name_11": "Elandrian",
+		"Name_12": "Driscan",
+		"Name_13": "Iamisom",
+		"Name_14": "Herrero",
+		"Name_15": "Dani Moo",
+		"Name_16": "Paddy",
+		"Name_2": "Camarero",
+		"Name_3": "Jerry",
+		"Name_4": "Bill",
+		"Name_5": "Ernest",
+		"Name_6": "William",
+		"Name_7": "Dale",
+		"Name_8": "Bruce",
+		"Name_9": "Moe"
+	},
+	"CyborgChatter": {
+		"Chatter_1": "{Bartender} dijo que le recordaba a una tal \"EV2\". Tal vez debería conocerla."
+	},
+	"GoblinTinkererChatter": {
+		"Chatter_1": "Esos duendes etéreos no se parecen en nada a mi pueblo. Son un montón de alborotadores. Bueno, tampoco es que mi pueblo sea mucho mejor..."
+	},
+	"GuideHelpText": {
+		"Help_1063": "Lo normal sería que te lo contase todo sobre el ejército del Antiguo, pero tal vez sea mejor que le preguntes a {Bartender} sobre el tema."
+	},
+	"MechanicChatter": {
+		"Chatter_1": "{Bartender} me ofreció una cerveza de raíz. Le dije que me la sirviese en una copa cuadrada."
+	},
+	"NurseChatter": {
+		"Chatter_1": "Yo no dejaba de pedirle vino, pero {Bartender} no hacía más que darme cerveza."
+	},
+	"PirateChatter": {
+		"Chatter_1": "¡Ya iba siendo hora de tener a un camarero por aquí! ¡Me quedaba poco ron!"
+	},
+	"StylistChatter": {
+		"Chatter_1": "Le ofrecí a {Bartender} un corte gratis, pero me lo rechazó. Jo, ¡al menos podría haberle retocado el bigotillo!"
+	},
+	"TownNPCHousingFailureReasons": {
+		"HoleInWallIsTooBig": "A esta habitación le falta una pared.",
+		"RoomCheckStartedInASolidTile": "¡Es un bloque sólido!",
+		"RoomIsTooBig": "Esta habitación es demasiado grande.",
+		"RoomIsTooSmall": "Esta habitación es demasiado pequeña.",
+		"TooCloseToWorldEdge": "¡Necesitamos un texto mejor para esto!"
+	}
+}

@@ -1,0 +1,237 @@
+{
+	"DryadSpecialText": {
+		"WorldStatusAll": "{0}: {1}% bajkowa, {2}% zepsucia i {3}% szkarlatu.",
+		"WorldStatusHallowCorrupt": "{0}: {1}%  bajkowa i {2}% zepsucia.",
+		"WorldDescriptionGrim": "Zaiste, ponuro tutaj...",
+		"WorldDescriptionWork": "Masz duzo pracy.",
+		"WorldDescriptionClose": "Jestes tak blisko!",
+		"WorldStatusHallowCrimson": "{0}: {1}%  bajkowa i {2}% szkarlatu.",
+		"WorldStatusCorruptCrimson": "{0}: {1}% zepsucia i {2}% szkarlatu.",
+		"WorldStatusCorrupt": "{0}: {1}%  zepsucia.",
+		"WorldStatusCrimson": "{0}: {1}%  szkarlatu.",
+		"WorldStatusHallow": "{0}: {1}%  bajkowa.",
+		"WorldStatusPure": "{0}: calkowita czystosc. Wspaniala robota!",
+		"WorldDescriptionBalanced": "Swiat zachowuje równowage!",
+		"WorldDescriptionFairyTale": "Zyjemy jak w bajce.",
+		"Party": "Pomyślałam, że urządzę przyjęcie, żeby świętować nasze dotychczasowe zwycięstwa i te, które dopiero nadejdą.",
+		"AfterDD2Tier1": "Gdy byłam w Etherii, czułam się taka oderwana od świata {WorldName}. Dobrze być już z powrotem.",
+		"AfterDD2Tier2": "Zepsucie chciało mną zawładnąć, kiedy byłam w Etherii, ale wykorzystałam jego moc przeciwko Armii Starszego!"
+	},
+	"DyeTraderSpecialText": {
+		"HasPlant_0": "Świetnie! Przynosisz ze sobą wyjątkową mieszankę najpiękniejszych kolorów i zapachów tego świata. W zamian za to dostaniesz ten niezwykły flakonik barwnika.",
+		"HasPlant_1": "Przynosisz piękny, rzadki kwiat... tak? Przyjmij ten flakon barwnika za swój trud!",
+		"HasPlant_2": "Jedwabiście! Ten delikatny okaz pozwoli mi na stworzenie najwspanialszych barwników na całym świecie {WorldName}! Ten możesz wziąć już teraz!",
+		"NoPlant_0": "O, nie, nie. Nic z tego.  Pieniądze nie grają tu roli, wróć do mnie z rzadką rośliną!",
+		"NoPlant_1": "{DyeTrader} nie da się tobie wykiwać, nawet o tym nie myśl! Te wyjątkowe flakony oddam ci jedynie za najrzadsze kwiaty!",
+		"NoPlant_2": "Te flakony? Przykro mi, nie da się ich kupić. Ale wymienię je za najrzadsze okazy flory!",
+		"Party": "Naprawdę kocham przyjęcia, tyle kolorów i radosnych twarzy."
+	},
+	"GuideSpecialText": {
+		"Party": "Nie było wcześniej okazji poimprezować? Popytaj innych. Czasami mają wyjątkowe prośby związane z przyjęciami."
+	},
+	"MerchantSpecialText": {
+		"Party": "Wiesz, jak najlepiej zacząć imprezowanie? Kupując innym prezenty, zwłaszcza mnie."
+	},
+	"GoblinTinkererSpecialText": {
+		"Party": "Przyjęcia u goblinów są bardzo podobne do tych u ludzi. I tu, i tu są gry, na przykład „Zwal winę na ludzia”, eee... Ja w nią nie gram."
+	},
+	"WitchDoctorSpecialText": {
+		"Party": "Chciałem zobaczyć, jak twoja rasa się bawi, nie jestem zawiedziony.",
+		"AfterDD2Tier1": "Wyczuwam, że ci etheriańscy, mroczni magowie to bratnie dusze. Szkoda, że są naszymi przeciwnikami, chciałbym się od nich czegoś nauczyć."
+	},
+	"ClothierSpecialText": {
+		"Party": "Mama zawsze powtarzała, że trzeba zapomnieć o przeszłości, zanim będzie się mogło bawić."
+	},
+	"TravellingMerchantSpecialText": {
+		"Party": "Mówi się, że po imprezach zostaje bogactwo wspomnień. Kup coś i daj mi trochę tego bogactwa!"
+	},
+	"MechanicSpecialText": {
+		"Party": "Myślisz, że komuś będzie przeszkadzać, jak powsadzam do tortu żarówki zamiast świeczek?"
+	},
+	"BartenderSpecialText": {
+		"Party": "Yorai, nie mam żadnego tekstu urodzinowego!",
+		"AfterDD2Tier1": "Dobra robota, udało ci się odeprzeć Armię Starszego! Ale pewnie jeszcze tu wrócą, nie postarali się tym razem.",
+		"AfterDD2Tier2": "Armia Starszego jest coraz silniejsza, ale tobie ciągle się udaje ich powstrzymać! Coś mi jednak mówi, że się nie poddadzą.",
+		"AfterDD2Tier3": "Naprawdę udało ci się powstrzymać całą Armię Starszego? Może kiedyś wpadniesz do Ehterii?",
+		"BeforeDD2Tier1": "Naprawdę powinniśmy coś zrobić z Armią Starszego. Zapytaj mnie o kryształ eternia, jeśli chcesz się czegoś dowiedzieć.",
+		"FirstHelp": "Na początek weź kilka medali obrońcy, ja stawiam! Możesz ode mnie kupić struktury obronne, ale tylko za medale obrońcy!",
+		"FirstMeeting": "Co? Jak ci się udało tu dostać? Ostatnią rzeczą, którą pamiętam, był portal otwierający się przede mną..."
+	},
+	"PartyGirlSpecialText": {
+		"Party_1": "Hm? Nie, dziś nie ma nic ciekawego... żartowałam! Czas się zabawić, a potem poprawić!",
+		"Party_2": "W końcu nadszedł mój czas!",
+		"AfterDD2Tier1": "Udało ci się spotkać ogra? Chcę się na jakimś przejechać!"
+	},
+	"PirateSpecialText": {
+		"Party": "Po tym całym torcie możesz na mnie wołać Białobrody."
+	},
+	"TruffleSpecialText": {
+		"Party": "Zaprosiłbym wszystkich do siebie, ale mam zagrzybione ściany."
+	},
+	"NurseSpecialText": {
+		"Party": "Nie, nie powiem, ile świeczek mam na torcie."
+	},
+	"WizardSpecialText": {
+		"Party": "Urządzam najlepsze przyjęcia, to jasne jak słońce.",
+		"AfterDD2Tier1": "Wiesz, chyba widziałem już taki portal, ale złoty."
+	},
+	"SteampunkerSpecialText": {
+		"Party": "Wszyscy mówili, że lubią torty kominowe, więc włożyłam do swojego kilka kominów."
+	},
+	"CyborgSpecialText": {
+		"Party": "Dokręcimy dziś śrubę!"
+	},
+	"SantaClausSpecialText": {
+		"Party": "Daj spokój, chyba nie myślisz, że bawię się tylko na święta?"
+	},
+	"DemolitionistSpecialText": {
+		"Party": "Uważaj dzisiaj. Krasnoludy mają dosyć wybuchowe przyjęcia.",
+		"AfterDD2Start": "Nie rozumiem, czemu po prostu nie wysadzimy tych portali."
+	},
+	"ArmsDealerSpecialText": {
+		"Party": "Są dwa sposoby na to, żeby ludzie wyszli z tych swoich twardych skorup: przyjęcia albo kule."
+	},
+	"StylistSpecialText": {
+		"Party": "Może i zrobiłam sobie fryzurę specjalnie na tę okoliczność, ale tak naprawdę chcę poprzebijać balony nożyczkami."
+	},
+	"PainterSpecialText": {
+		"Party": "Chciałem zorganizować mecz paintballu, ale inni chcieli jedzenia i dekoracji."
+	},
+	"AnglerSpecialText": {
+		"Party": "Co? Myślisz, że lubię przyjęcia, bo jestem dzieciakiem? I dobrze myślisz, bawmy się!"
+	},
+	"AnglerQuestText": {
+		"NoQuest_1": "W tej chwili nie mam dla ciebie zadań.",
+		"NoQuest_2": "Wystarczy mi już twojego towarzystwa, ruszaj.",
+		"NoQuest_3": "Możesz odejść, wielki {Angler} cię odprawia!",
+		"NoQuest_4": "Jedna ryba dziennie, odejdź, proszę!",
+		"NoQuest_5": "Mam jeszcze tę ostatnią rybę od ciebie.  Nie potrzebuję kolejnej.",
+		"TurnIn_1": "O! Dzięki za rybę, a teraz zjeżdżaj!",
+		"TurnIn_2": "Świetny połów! Wszystko idzie zgodnie z planem! He, he, he!",
+		"TurnIn_3": "Świetnie się nadajesz do tej roboty! Zmykaj już!",
+		"TurnIn_4": "Ha, ha, ha, ha! Udało ci się! Ale nic ci się nie stało, nuda!",
+		"TurnIn_5": "Łał!? Udało ci się wykonać to zadanie, i to w jednym kawałku! Nieźle, teraz dawaj i zjeżdżaj!",
+		"Quest_Batfish": "Na, na, na, na, na, na, na Bat-ryba! To znaczy, że masz iść, złapać rybę i mi ją przynieść!\n\n(można złapać w Podziemiach i Jaskiniach)",
+		"Quest_BumblebeeTuna": "W podziemnych dżunglach świata {WorldName} można znaleźć cuda, cudeńka! Na przykład widziałem rybę wyglądającą jak ogromny trzmiel! Mam uczulenie na pszczoły, więc musisz ją dla mnie złapać! Założę się, że smakuje jak kanapka z tuńczykiem i miodem!\n\n(można złapać w Miodzie)",
+		"Quest_Catfish": "W sumie to znalazłem fajną rybę! Taką co potrafi świetnie liczyć i sumować. Nie wiem i nie chcę wiedzieć, jak to możliwe. Chcę tylko dostać swoją rybę, biegiem!\n\n(można złapać w Dżungli na Powierzchni)",
+		"Quest_Cloudfish": "Krążą plotki o wyspach unoszących się wysoko na niebie, na których można znaleźć niesamowite skarby! Ale kogo to obchodzi? Znacznie lepsze jest to, że czasami w chmurach tworzą się jeziora, a w nich pływają ryby zrobione z chmur! Muszę takiej spróbować, więc lepiej pędź i ją dla mnie złap!\n\n(można złapać w Gwiezdnych Jeziorach)",
+		"Quest_Cursedfish": "W najgłębszych wodach zepsucia pływa przeklęta ryba! Stworzono ją za pomocą przeklętych płomieni upadłych zmór czających się tam na dnie. Mówią, że nawet woda nie ugasi tego wiecznego ognia. Mam kilka genialnych pomysłów, co zrobić z taką rybę! Przyniesiesz mi ją, czy tchórzysz!?\n\n(można złapać w Zepsuciu)",
+		"Quest_Dirtfish": "Właśnie wyciągałem dużą sztukę, kiedy ten zabawny, gadający zombie wyskoczył z leśnego jeziora i zaczął bredzić coś o „tych dzikich rybach ulepionych z brudu”! Mówi, że taka ryba da radę udusić 10 takich jak on, albo coś w tym rodzaju... Muszę ją mieć! Już!\n\n(można złapać na Powierzchni, w Podziemiach i Jaskiniach)",
+		"Quest_DynamiteFish": "Dewastator pieklił się, bo zgubił laskę dynamitu w leśnym jeziorze. Ma ich tyle, że co za różnica? Okazało się, że nie do końca zgubił – ten dynamit nagle dostał płetw i odpłynął! Nie wiem, skąd bierze materiały do swoich towarów, ale ten musi być opętany! Złów go dla mnie, zawsze marzyłem o takiej bombowej rybie! Nie pytaj czemu...\n\n(można złapać na Powierzchni)",
+		"Quest_EaterofPlankton": "Na pewno nie masz tyle odwagi, żeby odszukać pożeracza planktonu. Zepsuta ryba stworzona z oderwanej cząstki samego Pożeracza Światów! Przynieś mi ją i pokaż, że się do czegoś nadajesz!\n\n(można złapać w Zepsuciu)",
+		"Quest_FallenStarfish": "Uwielbiam zbierać te jasnożółte gwiazdy spadające z nieba! Jeszcze bardziej uwielbiam, jak spadają komuś na głowę. Ale nie ma nic lepszego niż spadająca gwiazda, która w leśnym jeziorze zmienia się w rybę! To już jest całkowity odjazd, musisz mi taką przynieść!\n\n(można złapać w Gwiezdnych Jeziorach)",
+		"Quest_TheFishofCthulu": "Wygląda na to, że demoniczne oczy potrafią też żyć w wodzie. Nie latają, pływają! Aż nie mogę się doczekać, żeby je komuś wrzucić do kąpieli! Znajdziesz tam, gdzie demoniczne oczy. Masz mi przynieść jedną sztukę!\n\n(można złapać w Gwiezdnych Jeziorach i na Powierzchni)",
+		"Quest_Fishotron": "Nie wiem, co gorsze – ościotrup czy ościotrup z łapami. Ten rybotron z jaskiń naprawdę mnie przeraża! Myślę, że opętały go te same złe duchy, które opętały tego starca przy lochu! Założę się, że nie złapiesz tej ryby!\n\n(można złapać w Jaskiniach)",
+		"Quest_Harpyfish": "Spałem sobie na wzgórzu przy jeziorze, kiedy ta ryba we mnie wleciała. Latała! Miała niewieścią twarz i pióra! Chyba krzyknąłem głośniej niż ona! Hej, może się przejdziesz i dasz jej nauczkę za to, że mnie wystraszyła?\n\n(można złapać w Gwiezdnych Jeziorach i na Powierzchni)",
+		"Quest_Hungerfish": "W piekle pływa bez sensu w kółko żarłok, który przeobraził się ze Ściany Mięcha w małe, rybopodobne stworzonko. Jest obrzydliwy, ohydny i muszę go mieć!\n\n(można złapać w Jaskiniach)",
+		"Quest_Ichorfish": "Wiesz, że w głębinach szkarłatu niektóre ze stworzeń produkują to żółte paskudztwo? Słyszałem zwariowaną historyjkę, że się rozlało i przeobraziło w rybę, która pływa i w ogóle! Przynieś mi ją, a wrzucę ją komuś do toalety!\n\n(można złapać w Szkarłacie)",
+		"Quest_Jewelfish": "Będę obrzydliwie bogaty! Głęboko w jaskiniach żyje ryba stworzona z klejnotów! Nie pytaj, jakim cudem, nie wiem. Wiem tylko tyle, że ta ryba jest kapitalna i masz dla mnie ją złapać!\n\n(można złapać w Podziemiach i Jaskiniach)",
+		"Quest_MirageFish": "W podziemiach Bajkowa żyją ciekawe stworzonka! Jarzą się tak na fioletowo i przez to wpadły mi w oko! Musisz dla mnie złapać taką rybę, bo jest po prostu obłędna!\n\n(można złapać w Podziemnym Bajkowie)",
+		"Quest_MutantFlinxfin": "Co jest białe i jasnobrązowe, i puszyste, i żyje w zamarzniętym, podziemnym jeziorze? Zmutowany flinx! Nie żartuję, naprawdę istnieją zmutowane flinxy przystosowane do życia w wodzie! Chcę, żeby się przystosowały do życia w moim akwarium, więc dopilnuj, żeby tak się stało!\n\n(można złapać w Podziemnej Tundrze)",
+		"Quest_Pengfish": "To wieloryb! To delfin! Nie, to ryba-pingwin! A to ty! Masz mi taką przynieść! Wiesz, że żyją tylko w zimnych wodach, prawda?\n\n(można złapać w Tundrze)",
+		"Quest_Pixiefish": "Wiesz, że istnieją takie bardzo rzadko spotykane wróżki, które mają tyle skrzydełek, że przez to nie potrafią latać? Pływają z rybami w jeziorach otoczonych tą niebieską trawą. Potrzeba mi lampy do akwarium, więc musisz złapać tę wróżkę!\n\n(można złapać w Bajkowie)",
+		"Quest_Spiderfish": "Widziałem rybę z ośmioma nogami! Nie! Nic z tego! Masz ją dla mnie złapać i ma być martwa, jak mi już ją dasz! Ostatni raz byłem łowić tak głęboko w jaskini!\n\n(można złapać w Podziemiach i Jaskiniach)",
+		"Quest_UnicornFish": "Jednorożce i tęcze są niesamowite! Znajdziesz je wszędzie, nawet w wodzie. Naprawdę, widziałem rybę-jednorożca w bajkowym jeziorze! Masz ją złowić i mi przynieść!\n\n(można złapać w Bajkowie)",
+		"Quest_GuideVoodooFish": "Te piekielne demony naprawdę lubią lalki voodoo, ale coś mi się wydaje, że jedna z tych lalek została potraktowana zbyt dużą ilością magii! Zamieniła się w rybę i teraz wyczynia cuda. Założę się, że nie dasz rady jej złapać! Uważaj na gorącą lawę, bo spali cię na popiół, a ja nie dostanę mojej rybki!\n\n(można złapać w Jaskiniach)",
+		"Quest_Wyverntail": "Wiem coś, czego ty nie wiesz! Dobra, powiem ci, między gwiazdami lata przerażający stwór! Nie zmyślam! Mówię o wywernie! Już o niej wiesz, tak? Ale nie wiesz, że małe wywerny to kijanki! Więc można powiedzieć, że wywerny to... żaby! Masz dla mnie jedną złapać!\n\n(można złapać w Gwiezdnych Jeziorach)",
+		"Quest_ZombieFish": "Nie uwierzysz! W nocy złapałem w lesie rybę, która już była martwa! A potem próbowała mnie pogryźć! Wyrzuciłem ją i uciekłem! Teraz chcę wsadzić ją komuś do komody i zobaczyć, co się stanie, więc masz ją dla mnie złapać, dobra?\n\n(można złapać na Powierzchni)",
+		"Quest_AmanitiaFungifin": "Odkryłem to niesamowite miejsce pokryte ogromnymi, lśniącymi grzybami! Wszystko było niebieskie! Zbierałem grzyby koło lśniącego, niebieskiego jeziora, kiedy jeden z nich kłapnął na mnie paszczą i odpłynął! Chcę mu odpłacić pięknym za nadobne i go smacznie schrupać! A to znaczy, że musisz mi go przynieść!\n\n(można złapać na Polach Lśniących Grzybów)",
+		"Quest_Angelfish": "Wiesz, że wysoko na niebie dryfują sobie magiczne wyspy? Pewnie nie! Mówią, że w niebiosach mieszkają anioły, a ja myślę, że te anioły mają płetwy i skrzela, i całkiem nieźle pływają! Musisz jednego dla mnie złapać!\n\n(można złapać w Gwiezdnych Jeziorach)",
+		"Quest_BloodyManowar": "Auć! Nie zbliżaj się! Poparzyła mnie krwawa wojennica! To najpaskudniejsza meduza na całym świecie: {WorldName}! Idź do tego zgniłego szkarłatu i ją złap, jeśli się odważysz! \n\n(można złapać w Szkarłacie)",
+		"Quest_Bonefish": "Zazwyczaj ości dryfujące na wodzie w podziemiach mnie nie obchodzą, ale te ości pływały! Myślisz, że tylko ludzkie szkielety potrafią się ruszać {WorldName}? Zdobądź dla mnie te ości, żebym mógł je wsadzić komuś do łóżka!\n\n(można złapać w Podziemiach i Jaskiniach)",
+		"Quest_Bunnyfish": "Wędkowałem w lesie. I zgadnij co? Królik do mnie przykicał! Potem kolejny i kolejny... i nagle pełno ich było! Jeden nawet przypłynął do mnie od strony wody, ale nie miał łapek! Spadłem z wrażenia z krzesełka i wszystkie króliki czmychnęły! Chcę dostać tę króliczą rybę, więc lepiej ją dla mnie złap! No dalej!\n\n(można złapać na Powierzchni)",
+		"Quest_CapnTunabeard": "Ahoj, szczurze lądowy! Niech mnie kule biją! Miarkuj się, psubracie! Pewien kapitan piratów miał rybę – kapiratkę – która w czasie sztormu wypadła za burtę! Ryba ta ma hak zamiast ogona i przepaskę na oko, i w ogóle! Musisz przynieść mi tę rybę, żebym mógł być taki fajny, jak pirat! Rybę znajdziesz oczywiście gdzieś w oceanie! Się wie!\n\n(można złapać w Oceanie)",
+		"Quest_Clownfish": "Widziałem tę jasnopomarańczową, kolorową rybę w oceanie. Rozglądała się rozpaczliwie, jakby szukała zaginionego krewniaka! Złap ją dla mnie, a kolejna z nich się zjawi, rozpaczliwie szukając tej pierwszej!\n\n(można złapać w Oceanie)",
+		"Quest_DemonicHellfish": "Słyszałem, że król wszystkich demonów jest tak naprawdę rybą! Tylko pomyśl o potędze, którą zdobędę, jak go dla mnie złapiesz!\n\n(można złapać w Jaskiniach)",
+		"Quest_Derpfish": "Te derplingi z dżungli są najbardziej przerażającymi stworzeniami, jakie kiedykolwiek widziałem! Dobrze, że niektóre nie mają nóg! Żyją w wodzie i są o wiele mniej przerażające! Złap mi jedną sztukę, żebym mógł zobaczyć, jak smakują, i nie posikał się ze strachu!\n\n(można złapać w Dżungli na Powierzchni)",
+		"Quest_Fishron": "Krąży legenda o potężnym stworzeniu znanym jako rybok! Jest po części świnią, po części smokiem a po części rybą! Ponoć można je spotkać w zamarzniętych, podziemnych jeziorach najmroźniejszych części świata! Ja tam się nie wybieram, lepiej idź ty, złap ryboka i mi go przynieś! Nie mogę się doczekać!\n\n(można złapać w Podziemnej Tundrze)",
+		"Quest_InfectedScabbardfish": "W mętnych wodach zepsucia pływa bardzo długa ryba, która wygląda jak pochwa na miecz! Jest podobna do kamienia ebonowego, nie daj się zwieść! Dokładnie tak. Ty masz ją złapać, nie ja!\n\n(można złapać w Zepsuciu)",
+		"Quest_Mudfish": "Uważaj tylko, jak będziesz brnąć przez wody dżungli! Dlaczego? Nie, nie dlatego, że nie chcę, żeby cię zjadły piranie. Dlatego, że możesz przypadkiem nadepnąć na mój ulubiony rodzaj ryb – błotniaki! Możesz też jednego przynieść do mojej kolekcji!\n\n(można złapać w Dżungli)",
+		"Quest_Slimefish": "Te leśne szlamy są obrzydliwe. Ryboszlamy są jeszcze gorsze! Nie będę pływać ze szlamami, więc skubnij jedną dla mnie prosto z wody!\n\n(można złapać gdziekolwiek)",
+		"Quest_TropicalBarracuda": "Piranie i rekiny są paskudne! Ogromnie paskudne! Wiesz, że istnieje bardzo ładna ryba, która i tak może odgryźć ci to i owo? Dałbym 2 platynowe monety, żeby to zobaczyć, tak nawiasem mówiąc... Do rzeczy, masz mi taką złapać. Tylko oddaj ją, zanim ci coś odgryzie!\n\n(można złapać w Dżungli na Powierzchni)",
+		"Quest_TundraTrout": "Zastanawiasz się czasami, czemu jeziora na zaśnieżonej powierzchni świata {WorldName} nigdy nie zamarzają? Bo ja nie. Ale ryby już zamarzają! Wspaniały i potężny {Angler} bardzo się ucieszy z lodowej ryby! Pędź, moje pacholę, i przynieś mi tego pstrąga z tundry!\n\n(można złapać w Tundrze na Powierzchni)"
+	},
+	"AnglerChatter": {
+		"Chatter_1": "Jak to {Bartender} nie chce sprzedać mi piwa? Chcę się napić! Co za zrzęda!"
+	},
+	"BartenderChatter": {
+		"Chatter_1": "Moje ulubione kwiaty to piwonie! Łapiesz? Piwo? Nie?",
+		"Chatter_10": "Myślisz, że {Steampunker} ma jeszcze taki pistolet? Znam czarownicę, której by się przydał.",
+		"Chatter_11": "Nie dziwota, że {Demolitionist} ma tyle wypadków. Nawet sobie nie wyobrażasz, ile u mnie kupuje piwa.",
+		"Chatter_12": "Nie jestem fanem goblinów, ale {GoblinTinkerer} wydaje się w porządku.",
+		"Chatter_13": "{?Day}Ktoś widział, gdzie poszła driada?",
+		"Chatter_14": "{?!Day}Cicho tam. Zbyt cicho...",
+		"Chatter_15": "{?!Day}Zajrzyj do mnie i do dzieła.",
+		"Chatter_16": "{?BloodMoon}Tam, skąd pochodzę, krwawy księżyc to dobra wymówka, żeby zaczerpnąć świeżego powietrza.",
+		"Chatter_17": "{?MoonLordDefeated}Księżycowy Władca, nie chodzi ci o Władcę Otchłani?",
+		"Chatter_18": "{?HardMode}Znam lawamantę, któremu bardzo by się spodobał ten piekielny kamień z piekła.",
+		"Chatter_19": "{?Homeless}Wiesz, gdzie można otworzyć interes? Chciałbym tu otworzyć bar.",
+		"Chatter_2": "Mówią, że masz krzepę, a ja się na tym znam. Zobaczmy, czy to prawda.",
+		"Chatter_3": "W moich rodzinnych stronach pijemy tylko piwo korzenne...",
+		"Chatter_4": "Coś nowego po szorowaniu stołu przez cały dzień.",
+		"Chatter_5": "Życie to dopiero wyzwanie, jak się jest zwyczajnie lepszym od reszty.",
+		"Chatter_6": "Co ja tu robię...",
+		"Chatter_7": "Spora doza nieustępliwości i odrobina szczęścia mogą się bardzo przydać...",
+		"Chatter_8": "Nie ma tu żadnych meburów?",
+		"Chatter_9": "{Dryad} wydaje się fajna. Powinienem ją ze sobą wziąć."
+	},
+	"BartenderHelpText": {
+		"Help_1": "Musisz wiedzieć, że sprzedaję specjalne, obronne artefakty, ale tylko za medale obrońcy!",
+		"Help_10": "Jeśli uda ci się odeprzeć inwazję, dostaniesz więcej medali obrońcy, które możesz u mnie wymienić na artefakty i inne wyjątkowe nagrody!",
+		"Help_11": "Słyszałem też, że można uwolnić moc artefaktów, pokonując Armię Starszego. Może dałoby się ich używać, kiedy tylko się zechce!",
+		"Help_2": "Możesz użyć tych artefaktów, żeby tworzyć pułapki i wieże obronne. Zużywa to etheriańską manę, specjalną energię upuszczaną wyłącznie przez żołnierzy Armii Starszego!",
+		"Help_3": "Znalezienie Armii Starszego jest proste. Przyciąga go moc kryształów eternia i dzięki nim można go zwabić.",
+		"Help_4": "Chcąc osadzić kryształ eternia, musisz zdobyć i kryształ, i stojak, na którym ten kryształ postawisz. Tak się składa, że możesz je u mnie kupić.",
+		"Help_5": "Lepiej postaw swój stojak na kryształ eternia na otwartej, płaskiej przestrzeni. Ciężko będzie go chronić, kiedy w pobliżu będzie sporo ścian i innych takich.",
+		"Help_6": "Po ustawieniu stojaka wejdź z nim w interakcję, trzymając kryształ eternia, i przygotuj się do walki!",
+		"Help_7": "Musisz chronić kryształ eternia przed Armią Starszego! Jego zniszczenie będzie fatalne w skutkach dla mojego domu – Etherii!",
+		"Help_8": "Za 10 kryształów etheriańskiej many możesz rozmieścić struktury obronne. Po osadzeniu kryształ eternia uwolni swoją manę. W innym wypadku musisz pokonać przeciwników, żeby zdobyć jej więcej.",
+		"Help_9": "Twoim zadaniem będzie odparcie, przy pomocy struktur obronnych, kilku fal najeźdźców, którzy chcą zniszczyć i ciebie, i kryształ eternia!"
+	},
+	"BartenderNames": {
+		"Name_1": "Ted",
+		"Name_10": "Javahawk",
+		"Name_11": "Elandrian",
+		"Name_12": "Driscan",
+		"Name_13": "Iamisom",
+		"Name_14": "Blacksmith",
+		"Name_15": "Dani Moo",
+		"Name_16": "Paddy",
+		"Name_2": "Barkeep",
+		"Name_3": "Jerry",
+		"Name_4": "Bill",
+		"Name_5": "Ernest",
+		"Name_6": "William",
+		"Name_7": "Dale",
+		"Name_8": "Bruce",
+		"Name_9": "Moe"
+	},
+	"CyborgChatter": {
+		"Chatter_1": "{Bartender} powiedział, że przypominam mu \"EV2\". Może powinienem się z nią spotkać."
+	},
+	"GoblinTinkererChatter": {
+		"Chatter_1": "Wiesz, te etheriańskie gobliny wcale nie przypominają moich ziomków. Są naprawdę nieznośni. Nie to, żeby moi byli dużo lepsi..."
+	},
+	"GuideHelpText": {
+		"Help_1063": "Normalnie powiedziałbym ci wszystko o Armii Starszego, ale lepiej niech {Bartender} to zrobi."
+	},
+	"MechanicChatter": {
+		"Chatter_1": "{Bartender} polecił mi piwo korzenne. Powiedziałem mu, żeby podał je w kwadratowym kuflu."
+	},
+	"NurseChatter": {
+		"Chatter_1": "Ciągle proszę o wino, a {Bartender} podaje mi piwo."
+	},
+	"PirateChatter": {
+		"Chatter_1": "W końcu mamy barmana! Rum mi się prawie skończył!"
+	},
+	"StylistChatter": {
+		"Chatter_1": "Chciałam go podstrzyc, ale {Bartender} odmówił. Mógł chociaż dać mi podciąć sobie wąsy!"
+	},
+	"TownNPCHousingFailureReasons": {
+		"HoleInWallIsTooBig": "W pokoju brakuje ściany",
+		"RoomCheckStartedInASolidTile": "To blok z materiału stałego!",
+		"RoomIsTooBig": "Ten pokój jest za duży",
+		"RoomIsTooSmall": "Ten pokój jest za mały",
+		"TooCloseToWorldEdge": "We need better text for this!!!"
+	}
+}

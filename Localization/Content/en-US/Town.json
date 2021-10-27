@@ -1,0 +1,237 @@
+{
+	"TownNPCHousingFailureReasons": {
+		"TooCloseToWorldEdge" : "We need better text for this!!!",
+		"RoomIsTooBig" : "This room is too big",
+		"RoomIsTooSmall" : "This room is too small",
+		"HoleInWallIsTooBig" : "This room is missing a wall",
+		"RoomCheckStartedInASolidTile" : "This is a solid block!"
+	},
+	"BartenderNames": {
+		"Name_1": "Ted",
+		"Name_2": "Barkeep",
+		"Name_3": "Jerry",
+		"Name_4": "Bill",
+		"Name_5": "Ernest",
+		"Name_6": "William",
+		"Name_7": "Dale",
+		"Name_8": "Bruce",
+		"Name_9": "Moe",
+		"Name_10": "Javahawk",
+		"Name_11": "Elandrian",
+		"Name_12": "Driscan",
+		"Name_13": "Iamisom",
+		"Name_14": "Blacksmith",
+		"Name_15": "Dani Moo",
+		"Name_16": "Paddy"
+	},
+	"BartenderChatter": {
+		"Chatter_1": "I've got the cure for what ails ya! Get it? Ale? No?",
+		"Chatter_2": "They say you're strong, well, I know strong. Let's see if you measure up.",
+		"Chatter_3": "Back where I'm from, we only serve Root Beer...",
+		"Chatter_4": "This is a big upgrade from wiping that table all day.",
+		"Chatter_5": "Life's a challenge when you're just naturally better than everyone else.",
+		"Chatter_6": "What am I doing here...",
+		"Chatter_7": "A lot of tenacity and a little bit of luck can go a long way...",
+		"Chatter_8": "Have you seen any Meburs around here?",
+		"Chatter_9": "{Dryad} seems nice. I should bring her back with me.",
+		"Chatter_10": "Do you think {Steampunker} has an extra of that gun? I know a witch that may want one.",
+		"Chatter_11": "No wonder {Demolitionist} has so many accidents. You can't imagine how much ale he buys from me.",
+		"Chatter_12": "Normally, I'm not much of a fan of Goblins, but {GoblinTinkerer} seems to be an alright sort.",
+		"Chatter_13": "{?Day}Anyone see where the Dryad went?",
+		"Chatter_14": "{?!Day}Really quiet out there. A little too quiet...",
+		"Chatter_15": "{?!Day}Check in with me, and do your job.",
+		"Chatter_16": "{?BloodMoon}You know, where I'm from, a Blood Moon is actually just an excuse to get some fresh air.",
+		"Chatter_17": "{?MoonLordDefeated}Moon Lord, don't you mean Abyss Lord?",
+		"Chatter_18": "{?HardMode}I know a Lavamancer that would really like that hellstone down in the underworld.",
+		"Chatter_19": "{?Homeless}Know any good places to set up shop? Would love to open up a bar here."
+	},
+	"BartenderSpecialText": {
+		"FirstHelp": "For starters, take a few of these Defender Medals, on the house! I've got some special defenses you can purchase, but only with Defender Medals!",
+		"FirstMeeting": "Huh? How did I get here? The last thing I remember was a portal opening up in front of me...",
+		"BeforeDD2Tier1": "We should really do something about the Old One's Army. Ask me about the Eternia Crystal if you want to learn more.",
+		"AfterDD2Tier1": "Great job on fighting off the Old One's Army! But I'm sure we haven't seen the last of them, they didn't put up much of a fight this time.",
+		"AfterDD2Tier2": "The Army of the Old One's keeps getting stronger, yet you keep pushing them back! But something tells me they aren't quite finished with us yet.",
+		"AfterDD2Tier3": "You really kept the full force of the Old One's Army at bay? Maybe you should visit Etheria some time.",
+		"Party": "I really need some birthday text, Yorai!"
+	},
+	"BartenderHelpText": {
+		"Help_1": "The first thing you need to know about are the special defensive artifacts I've got for sale, but only if you've got some Defender Medals!",
+		"Help_2": "You can use these artifacts to create traps and defensive towers. Doing so consumes Etherian mana, a special energy dropped only by members of the Old One's Army!",
+		"Help_3": "Challenging the Old One's Army is rather simple. They are attracted to the power of the Eternia Crystals, and that can be used to bait them out.",
+		"Help_4": "To place an Eternia Crystal, you must obtain an Eternia Crystal and a stand to put it in. It just so happens, you can buy em from me!",
+		"Help_5": "You'll want to place your Eternia Crystal stand in a pretty open, flat area. Lots of walls and stuff might make it pretty difficult to protect!",
+		"Help_6": "Once your stand is set up, just interact with it while holding an Eternia Crystal, and prepare for a fight!",
+		"Help_7": "Of course, you can't let the Old One's Army destroy the Eternia Crystal! This will have catastrophic consequences for my home world of Etheria!",
+		"Help_8": "You can place defenses at the cost of 10 Etherian mana. Once placed, the Eternia Crystal will release some of this mana. Otherwise, you will need to defeat enemies to get more.",
+		"Help_9": "With the help of the defenses, you will have to repel several waves of invaders who are attempting to destroy both you and the Eternia Crystal!",
+		"Help_10": "If you successfully repel the invasion, you'll be awarded with more Defender Medals, which you can bring to me to purchase more artifacts and some other special rewards!",
+		"Help_11": "I've also heard rumors that the power of the artifacts themselves may be further unlocked if you defeat the Old One's Army. Perhaps you could even use them any time you wish!"
+	},
+	"GuideHelpText": {
+		"Help_1063": "Normally I'd try to teach you all about the Old One's Army, but you should probably ask {Bartender} about that."
+	},
+	"GoblinTinkererChatter": {
+		"Chatter_1": "You know, these Etherian Goblins are nothing like my people. Really rowdy bunch. Not that my people are much better..."
+	},
+	"AnglerChatter": {
+		"Chatter_1": "How come {Bartender} won't sell me any ale? I want to try some! What a grouch!"
+	},
+	"AnglerQuestText": {
+		"NoQuest_1": "I don't have anything for you to do right now.",
+		"NoQuest_2": "You have entertained me enough for today, go.",
+		"NoQuest_3": "You are done, the grand {Angler} dismisses you!",
+		"NoQuest_4": "Only one fish a day, please go away!",
+		"NoQuest_5": "I haven't even used the last fish you gave me.  I don't need another.",
+		"TurnIn_1": "Oh! Thanks for the fish I asked for, now scram!",
+		"TurnIn_2": "Awesome catch! It's all going according to plan! He he he!",
+		"TurnIn_3": "You make a great errand monkey! Now go away!",
+		"TurnIn_4": "Muahahahahaha! You did it! You're still in one piece though, how boring!",
+		"TurnIn_5": "Woah!? You actually did what I asked, and survived! Nice, hand it over and beat it!",
+		"Quest_Batfish": "Na na na na na na na Bat-FISH! That means go digging underground, fetch it, and bring it to me!\n\n(Caught in Underground & Caverns)",
+		"Quest_BumblebeeTuna": "The subterranean jungles of {WorldName} have the weirdest things! Like, there's this fish I saw that looked just like a giant bumblebee! I'm allergic to bees, so you have to catch it for me! I bet it'd taste like a tuna and honey sandwich!\n\n(Caught in Honey)",
+		"Quest_Catfish": "I finally found a jungle cat that likes water! I think it's because it's also part fish. I don't know why this happened, and I don't want to know. I just want it in my hands, and make it snappy!\n\n(Caught in Jungle Surface)",
+		"Quest_Cloudfish": "There's a rumor going around that there are islands that float high up in the sky, and that they have amazing treasure! Who cares about that though, what's even cooler is that sometimes lakes form in the clouds, and in those lakes are fish made out of clouds! I wanna know what it tastes like, so you better go catch it for me!\n\n(Caught in Sky Lakes)",
+		"Quest_Cursedfish": "There's a cursed fish swimming in the waters of the deepest corruption! It was forged of the cursed flames that spread from the fallen horrors that lurk down there. They say not even water can put out this fire, and that it can burn forever. I can think of some awesome things I can do with a fish like that! You gonna go get it for me, or are you too chicken!?\n\n(Caught in Corruption)",
+		"Quest_Dirtfish": "I was reeling in the big one when this funny talking zombie burst out of the forest lake and started rambling on about this 'ferocious' species of fish made out of dirt! He says it could suffocate ten blokes his size, or something like that... I want it! NOW!\n\n(Caught in Surface, Underground, & Caverns)",
+		"Quest_DynamiteFish": "The demolitionist was raising cane about losing a stick of dynamite in the lake out in the forest. He has like, so many, so why does one matter? Apparently, because it grew fins and started swimming away! I don't know where he gets his materials to make those things, but that one is clearly possessed! Reel it in and bring it to me, I always wanted a suicide bombing fish! Don't ask why...\n\n(Caught in Surface)",
+		"Quest_EaterofPlankton": "I bet you're not brave enough to find the Eater of Plankton. A corrupt fish that was mutated from a severed piece of the Eater of Worlds itself! Capture it and bring it to me, and prove to me you're not a wuss!\n\n(Caught in Corruption)",
+		"Quest_FallenStarfish": "I love collecting those bright yellow stars that fall from the sky! I love it even more when they land on someone's head. But.. but.. nothing beats a star that falls in a foresty lake and turns into a fish! That's just totally rad, and you're just rad enough to get it for me!\n\n(Caught in Sky Lakes)",
+		"Quest_TheFishofCthulu": "Apparently, Demon Eyes can sometimes be amphibious. They don't fly, they swim! I want to see the look on someone's face when they find it in their bathtub! They hang around the same areas. That means you reel one in for me!\n\n(Caught in Sky Lakes & Surface)",
+		"Quest_Fishotron": "I don't know what's worse, a bone fish or a bone fish with HANDS. This Fish-o-Tron deep in the caverns really freaks me out! I think it's possessed by the same evil spirits that possessed that old man by the dungeon! I double duck dare you to go catch it!\n\n(Caught in Caverns)",
+		"Quest_Harpyfish": "I was trying to sleep by the hill lakeside when this fish swooped down at me. It was flying! It also had the face of a lady and had feathers! I think I screamed louder than she did! Hey you, go make her pay for scaring me like that!\n\n(Caught in Sky Lakes & Surface)",
+		"Quest_Hungerfish": "There's a piece of the Hunger that morphed from the Wall of Flesh into a small fish-like thing that swims around aimlessly in the underworld and it's gross and it's yucky and I want it now!\n\n(Caught in Caverns)",
+		"Quest_Ichorfish": "Did you know deep in the crimson, some of those creatures make this gross yellow stuff? I overheard a crazy story about a pool of it having melted together into a shape of a fish and it swims around and everything! Fetch it for me, so I can stick it in someone's toilet!\n\n(Caught in Crimson)",
+		"Quest_Jewelfish": "Oooooohhh, I'm going to be SO rich! Deep in the caverns, there is a fish made out of gemstones! Don't ask me how, I don't know, all I know is that this fish is totally awesome and you're going to catch it for me!\n\n(Caught in Underground & Caverns)",
+		"Quest_MirageFish": "There's some interesting critters to be found in the deeper Hallows, I tell you! They glow this crazy purple color and it messes with my eyes! It's totally wild, so I want you to catch a fish like that for me!\n\n(Caught in Underground Hallow)",
+		"Quest_MutantFlinxfin": "What's white and tan and fluffy and lives in a frozen underground lake? A mutant flinxfin! I wasn't telling a joke, you know, there really is a mutated variety of Flinx that is more adapted to an aquatic lifestyle! I want it to adapt to my fishbowl, so make sure that happens!\n\n(Caught in Underground Tundra)",
+		"Quest_Pengfish": "It's a whale! It's a dolphin! No, it's a penguin fish! Oh, and look, it's you! You get to bring me one! You do know they only like cold water, right?\n\n(Caught in Tundra)",
+		"Quest_Pixiefish": "There's a really really rare type of pixie that's born with so many wings that it can't actually fly! It swims with the fishes in the lakes surrounded by that blue colored grass. My fish tank needs a lamp, so I want you to catch me that pixie!\n\n(Caught in Hallow)",
+		"Quest_Spiderfish": "I saw a fish that had eight legs! Nope! Not happening! You're fishing it for me, so it's not alive when I hold it! That's the last time I go fishing so deep in the cavern!\n\n(Caught in Underground & Caverns)",
+		"Quest_UnicornFish": "Unicorns and rainbows are absolutely great! They're everywhere, even in the water. No, really, I actually saw a unicorn fish in the Hallowed lake! Your job is to reel it up and let me have it as a pet!\n\n(Caught in Hallow)",
+		"Quest_GuideVoodooFish": "Those demons in the underworld really like voodoo dolls, but I think there's a doll out there who was blasted with way too much magic! It turned into a fish and it does stuff on its own. I dare you to go down and get me one! I'd watch out for the boiling lava, because it burns you to death and that won't get me my fish!\n\n(Caught in Caverns)",
+		"Quest_Wyverntail": "I know something youuuuu don't! Fine, I'll tell you, there's a terrifying creature that flies among the stars! I'm not making this up! It's called a Wyvern! But, but, you knew that already, right? Well what you don't know is that they are born and raised as tadpoles! So, they're actually like.. well, a frog! Hop to it and get me one!\n\n(Caught in Sky Lakes)",
+		"Quest_ZombieFish": "You won't believe it! I caught a fish in the forest at night that was already dead! Then it tried to eat me! I threw it away and ran! Now I want to stick it in someone's dresser to see what happens, so go fish it back up for me will ya?!\n\n(Caught in Surface)",
+		"Quest_AmanitiaFungifin": "I found this spectacular place draped in giant glowing mushrooms! Everything was blue! I was picking some of the mushrooms I found next to a glistening blue lake, when one of the mushrooms snapped at me and swam away! I want to give it a taste of its own medicine, and give it a good chompin'! What I mean is, you gotta get it for me!\n\n(Caught in Glowing Mushroom Fields)",
+		"Quest_Angelfish": "Did you know there's magical islands that float up high in the sky? Bet you didn't! They say angels live in the sky, and I believe those angels have fins and gills and swim around! I believe you must catch one for me!\n\n(Caught in Sky Lakes)",
+		"Quest_BloodyManowar": "Ow! Don't get near me! I got stung by a Bloody Man-O-War! In case you're not smart enough to know what that is, it's the most menacing jellyfish in all of {WorldName}! Go to that rotten crimson and catch it if you dare! \n\n(Caught in Crimson)",
+		"Quest_Bonefish": "Normally I could care less if I see fishbones floating in the water underground, but this one was swimming! What, you thought that only human skeletons still flailed about in {WorldName}? Get it for me so I can stick it in someone's bed!\n\n(Caught in Underground & Caverns)",
+		"Quest_Bunnyfish": "Out in the forest, I was fishing right? Well guess what! A bunny hopped up to me! Then another one hopped up, and another... suddenly I'm surrounded by bunnies! One even swam up to me from the water, but it had no legs! I fell outta my chair in surprise and all the bunnies scurried off! I want that bunny fish as a pet, so you better catch it for me! Pronto!\n\n(Caught in Surface)",
+		"Quest_CapnTunabeard": "Yarr matey! Shiver me timbers! Avast, scallywags! There's a pirate captain who once had a pet fish named Cap'n Tunabeard, but during a big storm the fishbowl fell overboard! It has a hook for a tail, and an eyepatch and everything! You need to fetch me that fish, so I can be as cool as a pirate! Obviously it's out in the ocean somewhere! Duh!\n\n(Caught in Ocean)",
+		"Quest_Clownfish": "I saw this bright orange and colorful fish by the ocean, and it was looking around frantically as though it was seeking a lost family member! Go catch it for me, so that another one will show up looking frantically for him instead!\n\n(Caught in Ocean)",
+		"Quest_DemonicHellfish": "I hear in the underworld, that the King of all demons is actually a fish! Just imagine the absolute power I would have if you caught it for me!\n\n(Caught in Caverns)",
+		"Quest_Derpfish": "Those Derplings in the jungle are the most scary creatures I've ever seen! Good thing is, sometimes they don't have legs! These ones live in the water and are a lot less scary! Catch me one now so I can see what they taste like without being scared half to death!\n\n(Caught in Jungle Surface)",
+		"Quest_Fishron": "There's a legend of a mighty being known as the Fishron! It's part pig, part dragon, and part FISH! I hear it hangs around in the frozen subterranean lakes of the coldest part of the world! I'm not going there, so YOU go catch it and makes sure it lands in my hands! I'm so excited!\n\n(Caught in Underground Tundra)",
+		"Quest_InfectedScabbardfish": "A really long fish that looks like a sword's sheath swims in the murky waters of the corruption! It looks a lot like ebonstone, so don't let it fool you! That's right, you. You're catching it, not me!\n\n(Caught in Corruption)",
+		"Quest_Mudfish": "Watch your step when wading through jungle waters! Why? No, not because I care about you being eaten by piranhas. I care because you'll step on one of my favorite kinds of fish, the Mud Fish! I also care a lot that you're going to grab me one as a pet!\n\n(Caught in Jungle)",
+		"Quest_Slimefish": "In the forest, the slimes are kinda gross. Slimefish are even more so! I don't want to swim with slimes, so yoink one out of the water for me!\n\n(Caught Anywhere)",
+		"Quest_TropicalBarracuda": "Piranhas and sharks are ugly! Soooo ugly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, though, you catchy for me. Just make sure I have it before you lose your face!\n\n(Caught Jungle Surface)",
+		"Quest_TundraTrout": "You ever wonder why the lakes on the surface of the snowy areas of {WorldName} never ice over? I don't. The fish, however, do! A fish made out of ice would make a great offering to the mighty and amazing {Angler}! Go, my loyal subject, and bring me this Tundra Trout with haste!\n\n(Caught in Surface Tundra)"
+	},
+	"DryadSpecialText": {
+		"AfterDD2Tier1": "When I was in Etheria, I felt so disconnected from {WorldName}. Its good to be back.",
+		"AfterDD2Tier2": "The Corruption tried to take me over when I went to Etheria, but instead, I used its power against the Old One's Army!",
+		"WorldStatusAll": "{0} is {1}% hallow, {2}% corrupt, and {3}% crimson.",
+		"WorldStatusHallowCorrupt": "{0} is {1}% hallow and {2}% corrupt.",
+		"WorldStatusHallowCrimson": "{0} is {1}% hallow and {2}% crimson.",
+		"WorldStatusCorruptCrimson": "{0} is {1}% corrupt and {2}% crimson.",
+		"WorldStatusCorrupt": "{0} is {1}% corrupt.",
+		"WorldStatusCrimson": "{0} is {1}% crimson.",
+		"WorldStatusHallow": "{0} is {1}% hallow.",
+		"WorldStatusPure": "{0} is completely pure. You have done an amazing job!",
+		"WorldDescriptionBalanced": "The world is in balance.",
+		"WorldDescriptionFairyTale": "We are living in a fairy tale.",
+		"WorldDescriptionGrim": "Things are grim indeed...",
+		"WorldDescriptionWork": "You have a lot of work to do.",
+		"WorldDescriptionClose": "You are so close!",
+		"Party": "I thought I would throw a party to celebrate our victories in the past and those yet to come."
+	},
+	"WitchDoctorSpecialText": {
+		"AfterDD2Tier1": "I sense a kindred spirit in the Etherian Dark Mages. A pity they are our enemies, I would have liked to learn from them.",
+		"Party": "I wanted to see how your kind celebrate, I am not disappointed."
+	},
+	"PirateChatter": {
+		"Chatter_1": "About time we gotta barkeep around here! Me rum was almost gone!"
+	},
+	"NurseChatter": {
+		"Chatter_1": "I keep asking for wine, but all {Bartender} gives me are mugs of ale."
+	},
+	"DemolitionistSpecialText": {
+		"AfterDD2Start": "I don't see why we can't just blow up those portals.",
+		"Party": "You might want to be careful today. Us dwarves tend to have pretty explosive parties."
+	},
+	"StylistChatter": {
+		"Chatter_1": "I offered {Bartender} a free trim, but he refused. I mean, I could have at least worked on his mustache!"
+	},
+	"WizardSpecialText": {
+		"AfterDD2Tier1": "You know, I think I've seen a portal like that before, but it was gold.",
+		"Party": "Clearly I throw the most magical of parties."
+	},
+	"PartyGirlSpecialText": {
+		"AfterDD2Tier1": "Have you seen an ogre yet? I want to ride on the back of one!",
+		"Party_1": "Hmm? Nothing special today... just kidding! It's party time, and then it's after party time!",
+		"Party_2": "At last, my time has come!"
+	},
+	"CyborgChatter": {
+		"Chatter_1": "{Bartender} said I reminded him of a certain \"EV2\". Perhaps I should meet her."
+	},
+	"MechanicChatter": {
+		"Chatter_1": "{Bartender} offered me a Root Beer, I told him to give it to me in a square cup."
+	},
+	"DyeTraderSpecialText": {
+		"HasPlant_0": "Brilliant, my dear! You have brought me an exquisite sample of the world's beautiful colors and aroma. In exchange, you may take this special bottle of dye.",
+		"HasPlant_1": "You bring me a beautiful, rare flower... yes, yes? Take this bottle of special dye for your troubles, friend!",
+		"HasPlant_2": "Fantabulous, wonderful friend! With this delicate specimen, I may mix the most amazing dyes {WorldName} has ever seen! You may take this one right away!",
+		"NoPlant_0": "Oh no no, this will not do.  For these money is no good, you must return to me with a rare specimen of a plant!",
+		"NoPlant_1": "You think you can pull a fast one on {DyeTrader}, I don't think so! I only take the rarest of flowers for these special bottles!",
+		"NoPlant_2": "These dye bottles? Sorry dear friend, these don't take coin. I only take the most precious and rare of flora in exchange for one of this!",
+		"Party": "I truly love parties, so many beautiful colors and happy people."
+	},
+	"GuideSpecialText": {
+		"Party": "Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors."
+	},
+	"MerchantSpecialText": {
+		"Party": "You know what would be the best way to party? Buying things for others, specifically from me."
+	},
+	"GoblinTinkererSpecialText": {
+		"Party": "Goblin parties are a lot like humans. They both have games like \"Pin the Blame on the Human\" er... I don't play that game at my parties."
+	},
+	"ClothierSpecialText": {
+		"Party": "Mama always said you've got to put the past behind you before you can party on."
+	},
+	"TravellingMerchantSpecialText": {
+		"Party": "Many say that parties give you the richest of memories. So buy something and make this memory rich!"
+	},
+	"MechanicSpecialText": {
+		"Party": "Do you think anyone would mind if I wired a cake with bulbs instead of candles?"
+	},
+	"PirateSpecialText": {
+		"Party": "After all that cake, you might have to call me White Beard for a while."
+	},
+	"TruffleSpecialText": {
+		"Party": "I would have invited everyone to party in my home, but there's not mushroom."
+	},
+	"NurseSpecialText": {
+		"Party": "No, I will not tell you how many candles are on my cake."
+	},
+	"SteampunkerSpecialText": {
+		"Party": "Everyone said they like stacked cakes, so I installed smokestacks in mine."
+	},
+	"CyborgSpecialText": {
+		"Party": "This party is going to be nuts, maybe even bolts!"
+	},
+	"SantaClausSpecialText": {
+		"Party": "Come now, you didn't think I only celebrated on Christmas did you?"
+	},
+	"ArmsDealerSpecialText": {
+		"Party": "Parties are great for getting people to come out of their shell, just like with bullets."
+	},
+	"StylistSpecialText": {
+		"Party": "I may have gotten my hair done up just for today, but honestly, I just want to pop balloons with my scissors."
+	},
+	"PainterSpecialText": {
+		"Party": "I tried having a paintball fight, but everyone wanted food and decorations instead."
+	},
+	"AnglerSpecialText": {
+		"Party": "What, you think I like parties because I am a kid? Well, you're right, so get to partying!"
+	}
+}
